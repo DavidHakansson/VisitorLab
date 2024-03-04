@@ -1,0 +1,13 @@
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\bin\Debug\netcoreapp3.1\Lab 3 CSD.exe
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\bin\Debug\netcoreapp3.1\Lab 3 CSD.deps.json
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\bin\Debug\netcoreapp3.1\Lab 3 CSD.runtimeconfig.json
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\bin\Debug\netcoreapp3.1\Lab 3 CSD.runtimeconfig.dev.json
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\bin\Debug\netcoreapp3.1\Lab 3 CSD.dll
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\bin\Debug\netcoreapp3.1\Lab 3 CSD.pdb
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\obj\Debug\netcoreapp3.1\Lab 3 CSD.csprojAssemblyReference.cache
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\obj\Debug\netcoreapp3.1\Lab 3 CSD.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\obj\Debug\netcoreapp3.1\Lab 3 CSD.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\obj\Debug\netcoreapp3.1\Lab 3 CSD.AssemblyInfo.cs
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\obj\Debug\netcoreapp3.1\Lab 3 CSD.dll
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\obj\Debug\netcoreapp3.1\Lab 3 CSD.pdb
+C:\Users\david\source\repos\Lab 3 CSD\Lab 3 CSD\obj\Debug\netcoreapp3.1\Lab 3 CSD.genruntimeconfig.cache
